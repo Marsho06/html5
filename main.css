@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background: #42A4BD;
+	background-image: url("img/card.jpeg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	margin-right: auto;
+	background-attachment: fixed;
+}
+h1 {font-family: 'DotGothic16', sans-serif;}
+h2 {font-family: 'Indie Flower', cursive;}
+
+ul li{
+	display: inline;}
+
